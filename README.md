@@ -1,3 +1,4 @@
+# 👋✨ Hi there, I'm **Karnati Aravind Reddy ** ⚡!
 <p align="center">
   <img 
     src="https://readme-typing-svg.herokuapp.com
@@ -13,6 +14,7 @@
     alt="Typing SVG"
   />
 </p>
+
 
 
 
