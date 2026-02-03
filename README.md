@@ -89,12 +89,12 @@
 
 ---
 ### 🏆 Achievements & Certifications
-•Oracle Cloud Infrastructure 2023 Cerified Architech Association.
+•Oracle Cloud Infrastructure 2023 Cerified Architech Association.\
 •All India Naukri Campus Aptitude Test 2025.
 
 ### Publications
-•Customer Sales Analysis and Classification Using Machine Learning Algorithms
-•Stock Market Profit Prediction Using Machine Learning Algorithms and Visualization for Live Data 
+•Customer Sales Analysis and Classification Using Machine Learning Algorithms\
+•Stock Market Profit Prediction Using Machine Learning Algorithms and Visualization for Live Data\
 • Automated Disease Detection and Medication Tracking System Using BIO-GPT
 
   
