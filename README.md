@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Python+Data+Analytics;;AI+Researcher;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Python+Data+Analytics;Software Engineer;AI+Researcher;Always+Learning+New+Things" alt="Typing SVG" />
 </p>
 
 
@@ -88,7 +88,7 @@
 •Oracle Cloud Infrastructure 2023 Cerified Architech Association.
 •All India Naukri Campus Aptitude Test 2025.
 
-----Publications 
+### Publications
 •Customer Sales Analysis and Classification Using Machine Learning Algorithms
 •Stock Market Profit Prediction Using Machine Learning Algorithms and Visualization for Live Data 
 • Automated Disease Detection and Medication Tracking System Using BIO-GPT
@@ -111,7 +111,7 @@
 ## 🏆 **GitHub Trophies**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rohithsilagani&theme=onestar"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ARAVIND123Reddy&theme=onestar"/>
 </p>
 
 ---
